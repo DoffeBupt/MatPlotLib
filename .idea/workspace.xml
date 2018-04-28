@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cc84785-d78e-4a75-a3a0-5931bb279991" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4_Lenged.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5_Annotation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MatPlotLib$3_AxisSetting.coverage" NAME="3_AxisSetting Coverage Results" MODIFIED="1524923557545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MatPlotLib$5_Annotation.coverage" NAME="5_Annotation Coverage Results" MODIFIED="1524926989365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MatPlotLib$2_Figure.coverage" NAME="2_Figure Coverage Results" MODIFIED="1524909418910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MatPlotLib$4_Lenged.coverage" NAME="4_Lenged Coverage Results" MODIFIED="1524925048549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MatPlotLib$1_BasicUsages.coverage" NAME="1_BasicUsages Coverage Results" MODIFIED="1524909125320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -57,13 +58,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4_Lenged.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4_Lenged.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Lenged.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+            <state relative-caret-position="248">
+              <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
               <folding>
                 <element signature="e#30#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_Annotation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_Annotation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <element signature="e#38#69#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,6 +101,7 @@
         <option value="$PROJECT_DIR$/2_Figure.py" />
         <option value="$PROJECT_DIR$/3_AxisSetting.py" />
         <option value="$PROJECT_DIR$/4_Lenged.py" />
+        <option value="$PROJECT_DIR$/5_Annotation.py" />
       </list>
     </option>
   </component>
@@ -98,12 +112,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="785" />
+    <option name="x" value="691" />
     <option name="y" value="1" />
-    <option name="width" value="1135" />
+    <option name="width" value="1229" />
     <option name="height" value="1073" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -140,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4_Lenged">
+  <component name="RunManager" selected="Python.5_Annotation">
     <configuration default="false" name="1_BasicUsages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,6 +228,25 @@
       <module name="MatPlotLib" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Lenged.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="5_Annotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MatPlotLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Annotation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,18 +411,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.1_BasicUsages" />
       <item index="1" class="java.lang.String" itemvalue="Python.2_Figure" />
       <item index="2" class="java.lang.String" itemvalue="Python.3_AxisSetting" />
       <item index="3" class="java.lang.String" itemvalue="Python.4_Lenged" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5_Annotation" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.4_Lenged" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3_AxisSetting" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2_Figure" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1_BasicUsages" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.5_Annotation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4_Lenged" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3_AxisSetting" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2_Figure" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1_BasicUsages" />
       </list>
     </recent_temporary>
   </component>
@@ -405,10 +442,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="785" y="1" width="1135" height="1073" extended-state="0" />
+    <frame x="691" y="1" width="1229" height="1073" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0921659" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08481764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -436,7 +473,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -472,10 +511,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Lenged.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        <state relative-caret-position="248">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
           <folding>
             <element signature="e#30#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Annotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="e#38#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
