@@ -7,11 +7,13 @@ y2 = x**2 # x平方
 
 # 图片大小
 # 2号图片,到下一个图片声明之前都是它的内容,它的属性设置
+# **限制的是开始放了多大的图片** modified 4.29
 plt.figure(num=2,figsize=(8,5))
 plt.plot(x,y2)
 plt.plot(x,y1,color='red',linewidth=1.0,linestyle='--')
 
 # 限制横纵坐标轴的显示的取值范围
+# **限制的是我都算了哪些数字,出去了的我就不算了** modified 4.29
 # 大小仿佛是在限制一个显示的格子的比例
 plt.xlim((-1,2))
 plt.ylim((-2,3))
